@@ -1,0 +1,15 @@
+# Assuming you have already created GitHub Account
+# Assuming repo is present that is similar to your project name
+
+project: "Rkahul/Kubernetes-Test"
+repository: "github.com/Rkahul/Kubernetes-Test"
+cloneURL: "https://github.com/Rkahul/Kubernetes-Test.git"
+
+# GitHub token can be generated
+# GitHub settings -> developer settings -> Personal access token -> Generate new token
+
+github:
+  token: "f5a3b6bf3130ccfdf94791e1a68d360a1d360e05"
+
+# own created SecreteKey
+sharedSecret: "BRIGADE"
