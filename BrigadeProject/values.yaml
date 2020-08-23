@@ -9,7 +9,7 @@ cloneURL: "https://github.com/Rkahul/Kubernetes-Test.git"
 # GitHub settings -> developer settings -> Personal access token -> Generate new token
 
 github:
-  token: "f5a3b6bf3130ccfdf94791e1a68d360a1d360e05"
+  token: "57604d9319c9d317d64ffe09848ac4a1bc6b1915"
 
 # own created SecreteKey
 sharedSecret: "BRIGADE"
